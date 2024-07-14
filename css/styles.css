@@ -1,0 +1,15 @@
+.encabezado{
+    height: 46px;
+    background-color: #633C1F;
+    display: flex;
+}
+
+.footer{
+    height: 122px;
+    background-color: #633C1F;
+    display: flex;
+    color: white;
+    font-size: 150%;
+    justify-content: flex-start;
+    align-items: center;
+}
